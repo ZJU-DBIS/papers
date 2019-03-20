@@ -1,0 +1,11 @@
+Here is a list of relevant papers we have been following. You probably already have them. Our work is mostly focused on Tensorflow.
+
+1. Scaling Deep Learning on GPU and Knights Landing clusters
+2. LARGE BATCH TRAINING OF CONVOLUTIONAL NETWORKS
+3. MALT: Distributed Data-Parallelism for Existing ML Applications
+4. Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour
+5. Efficient Mini-batch Training for Stochastic Optimization
+6. TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+7. Extremely Large Minibatch SGD: Training ResNet-50 on ImageNet in 15 Minutes
+8. ImageNet Training in Minutes
+9. Entropy-Aware I/O Pipelining for Large-Scale DeepLearning on HPC Systems
